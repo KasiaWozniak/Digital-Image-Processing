@@ -1,3 +1,7 @@
+# Labolatoria wykonane na przedmiocie Przetwarzanie Obrazów Cyfrowych 
+
+## Zakres materiału:
+
 Pozyskiwanie obrazów cyfrowych – urządzenia; próbkowanie; kwantyzacja. 
 Podstawowe metody przetwarzania obrazów cyfrowych: poprawa jakości obrazu; operacje arytmetyczne; metody kontekstowe: filtracja i usuwanie zakłóceń detekcja krawędzi, operacje nieliniowe. 
 Metody morfologiczne. 
